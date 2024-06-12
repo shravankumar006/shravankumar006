@@ -3,7 +3,7 @@
 - 👦I write codes.
 - ⚒️ I'm learning Frontend development, Cp and algorithms.
 - 🚀 Exploring the intersection of technology and creativity.
-- 😄 Pronouns: HE/HIM
+- 😄 Pronouns: HE/HIM      
 
   
 
